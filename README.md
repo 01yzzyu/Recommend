@@ -1,6 +1,6 @@
-# Recommender-System推荐系统
+# Recommender System推荐系统
 
-这是一个正在开发的基于tensorflow2实现的推荐系统。
+这是一个正在开发的基于tensorflow2实现的推荐系统，作者于兰州大学自主学习实现的一些推荐系统算法。
 
 数据集：电影MovieLens-100k, MovieLens-1m, MovieLens-20m，音乐lastfm，书Book-Crossing，以及一些satori知识图谱。
 
